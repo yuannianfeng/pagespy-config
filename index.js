@@ -1,4 +1,4 @@
 window.__pageSpyConfig = {
   enable: true,
-  host: "https://village-settled-package-deutsch.trycloudflare.com"
+  host: "https://wild-singer-displaying-neighbor.trycloudflare.com"
 };
