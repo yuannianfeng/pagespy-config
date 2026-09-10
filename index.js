@@ -1,4 +1,4 @@
 window.__pageSpyConfig = {
   enable: true,
-  host: "https://wild-singer-displaying-neighbor.trycloudflare.com"
+  host: "https://complete-fragrances-auburn-share.trycloudflare.com"
 };
