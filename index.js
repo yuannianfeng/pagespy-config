@@ -1,4 +1,4 @@
 window.__pageSpyConfig = {
   enable: true,
-  host: "https://complete-fragrances-auburn-share.trycloudflare.com"
+  host: "https://future-william-sides-set.trycloudflare.com"
 };
