@@ -1,4 +1,4 @@
 window.__pageSpyConfig = {
   enable: true,
-  host: "https://vitamins-brochure-refuse-palace.trycloudflare.com"
+  host: "https://eminem-calculators-steal-therefore.trycloudflare.com"
 };
