@@ -1,4 +1,4 @@
 window.__pageSpyConfig = {
   enable: true,
-  host: "https://eminem-calculators-steal-therefore.trycloudflare.com"
+  host: "https://closure-implications-shown-vessels.trycloudflare.com"
 };
