@@ -1,4 +1,4 @@
 window.__pageSpyConfig = {
   enable: true,
-  host: "https://pounds-passenger-silk-beach.trycloudflare.com"
+  host: "https://cheats-especially-operate-composer.trycloudflare.com"
 };
